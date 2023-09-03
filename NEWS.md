@@ -2,12 +2,4 @@
 
 ### New features
 
-* Add an initializer script.
-
-### Enhancements
-
-* Documentation on how to use the initialize a package.
-
-### Bug fixes
-
-* None.
+* Add standardized linear regression with robust covariance.
